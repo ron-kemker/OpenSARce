@@ -1,2 +1,2 @@
 # OpenSARce
-Open Source SAR Processing Library
+Open-source Synthetic Aperture Radar (SAR) Image Processing Library
